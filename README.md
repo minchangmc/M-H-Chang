@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Min Chang and this is my GitHub
+### Hi there 👋  I'm Min Chang and this is my GitHub
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-H-Chang&show_icons=true&theme=nord)](https://github.com/M-H-Chang/)
 
