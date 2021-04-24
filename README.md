@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Min Chang and this is my GitHub
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=usarneme&show_icons=true&theme=nord)](https://github.com/M-H-Chang/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-H-Chang&show_icons=true&theme=nord)](https://github.com/M-H-Chang/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usarneme&layout=compact&theme=nord)](https://github.com/M-H-Chang/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-H-Chang&layout=compact&theme=nord)](https://github.com/M-H-Chang/)
 
 ## 🌱 I’m currently learning
 <p>
