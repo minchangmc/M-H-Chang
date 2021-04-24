@@ -10,6 +10,25 @@
 <!-- <img src="https://img.shields.io/badge/go%20-%2300add8.svg?&style=for-the-badge&logo=go&logoColor=white" />&nbsp;&nbsp; -->
 <!-- <img src="https://img.shields.io/badge/crystal%20-%23000000.svg?&style=for-the-badge&logo=crystal&logoColor=white" />&nbsp;&nbsp; -->
 </p>
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/M-H-Chang" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/dkmc1" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/minchangmcli/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</div>  
+  
+
+<br/>  
 <!--
 **M-H-Chang/M-H-Chang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
